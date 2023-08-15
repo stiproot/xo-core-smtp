@@ -8,8 +8,9 @@
 
   <ItemGroup>
     <PackageReference Include="NETCore.MailKit" Version="2.0.3" />
-    <PackageReference Include="Xo.Core.Abstractions" Version="0.0.2" />
-    <PackageReference Include="Xo.Core.Extensions" Version="0.0.2" />
+    <PackageReference Include="Xo.Core.Abstractions" Version="0.1.3" />
+    <PackageReference Include="Xo.Core.Cqrs" Version="0.0.3" />
+    <PackageReference Include="Xo.Core.Extensions" Version="0.0.4" />
   </ItemGroup>
 
   <PropertyGroup>
